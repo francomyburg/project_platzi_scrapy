@@ -1,2 +1,2 @@
-# project_platzi_scrapy
-Project platzi website
+# curso de platzy scrapy
+
